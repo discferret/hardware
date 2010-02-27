@@ -1,5 +1,12 @@
+# ignore eagle backup files
 syntax: regexp
 \.[a-z]\#[0-9]$
 
+
 syntax: glob
+
+# vim backup files
 *~
+
+# EAGLE autorouter report logs
+*.pro
