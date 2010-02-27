@@ -1,0 +1,5 @@
+syntax: regexp
+\.[a-z]\#[0-9]$
+
+syntax: glob
+*~
