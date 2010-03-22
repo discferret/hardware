@@ -25,7 +25,7 @@ UsedLibrary="/home/philpem/eagle/libs_manuf/Wuerth_Elektronik_eiSos_Version_6-7.
 [Win_1]
 Type="Control Panel"
 Loc="0 25 599 424"
-State=2
+State=1
 Number=0
 
 [Desktop]
