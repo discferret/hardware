@@ -1,0 +1,35 @@
+DISCFERRET HARDWARE LICENSE AGREEMENT
+=====================================
+
+The files contained in this archive / version control repository are copyright
+2008-2010 Philip A. Pemberton, Jr.
+
+You may:
+  - Print copies of the circuit diagrams and circuit board layouts for your
+    own personal use
+  - Use the design documentation provided to aid in your understanding of
+    the DiscFerret design
+  - Make variants of the DiscFerret design, as long as these are not sold
+    or advertised under the brand "DiscFerret", and no profit is derived from
+    their distribution.
+
+You may NOT:
+  - Make copies of the documents and sell them at a profit
+  - Manufacture DiscFerret or DiscFerret-derived products (including but not
+    limited to: assembled DiscFerret analysers, printed circuit boards, and
+    kits of parts) if these products are to be sold for profit.
+
+You MUST:
+  - Clearly mark any modified schematics or PCB layouts. This is to help
+    avoid modified designs being confused with original DiscFerret designs.
+
+
+This license DOES NOT apply to DiscFerret hardware which was directly purchased
+from Philip A. Pemberton, Jr. Such hardware may be sold, resold, modified and
+so on freely and without restriction.
+
+
+If you have any questions about this license or require any clarification, please
+contact:
+  Philip Pemberton, Jr.
+  philpem@philpem.me.uk or phil@discferret.com
