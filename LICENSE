@@ -1,35 +1,14 @@
 DISCFERRET HARDWARE LICENSE AGREEMENT
 =====================================
 
-The files contained in this archive / version control repository are copyright
-2008-2010 Philip A. Pemberton, Jr.
+The files contained in this archive / version control repository are copyright 2008-2012 Philip A. Pemberton, Jr., trading as Red Fox Engineering.
+Web:   http://www.discferret.com/
+Email: philpem@philpem.me.uk or philpem@gmail.com
 
-You may:
-  - Print copies of the circuit diagrams and circuit board layouts for your
-    own personal use
-  - Use the design documentation provided to aid in your understanding of
-    the DiscFerret design
-  - Make variants of the DiscFerret design, as long as these are not sold
-    or advertised under the brand "DiscFerret", and no profit is derived from
-    their distribution.
+You may use the files contained within this archive under the terms of the GNU General Public License, Version 3, as presented in the file "gpl-3.0.txt". Alternatively, the GPLv3 terms may be downloaded from http://www.gnu.org/licenses/gpl-3.0.txt .
 
-You may NOT:
-  - Make copies of the documents and sell them at a profit
-  - Manufacture DiscFerret or DiscFerret-derived products (including but not
-    limited to: assembled DiscFerret analysers, printed circuit boards, and
-    kits of parts) if these products are to be sold for profit.
+The term "DiscFerret" is an unregistered trademark which is reserved solely to describe hardware and software developed by the DiscFerret project. If you manufacture DiscFerret hardware using these files and wish to call the end result by the name "DiscFerret", you MUST contact Philip Pemberton via one of the methods listed above and request permission in advance of any sale or distribution.
 
-You MUST:
-  - Clearly mark any modified schematics or PCB layouts. This is to help
-    avoid modified designs being confused with original DiscFerret designs.
+Any modified versions must be clearly marked as such, and may not be sold under the DiscFerret brand name without prior permission from Philip Pemberton. This is intended to avoid confusion between modified (unofficial) variants of the DiscFerret design, and official versions designed and manufactured by Philip Pemberton, the DiscFerret Project, or others authorised by Philip Pemberton, trading as Red Fox Engineering.
 
-
-This license DOES NOT apply to DiscFerret hardware which was directly purchased
-from Philip A. Pemberton, Jr. Such hardware may be sold, resold, modified and
-so on freely and without restriction.
-
-
-If you have any questions about this license or require any clarification, please
-contact:
-  Philip Pemberton, Jr.
-  philpem@philpem.me.uk or phil@discferret.com
+If you have any questions about this license or require any clarification, please contact Philip Pemberton using the details at the top of this document.
